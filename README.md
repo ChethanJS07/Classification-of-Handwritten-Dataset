@@ -1,0 +1,1 @@
+## A small Neural Network for classification of Handwritten Dataset built using Python Libraries in the process of understanding Deep Learning.
